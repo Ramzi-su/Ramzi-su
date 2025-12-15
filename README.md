@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portofolio-opdu.vercel.app/](https://portofolio-gold-nu.vercel.app/)
 
-- 💬 Ask me about **symfony ,Flutter**
+- 💬 Ask me about **Cybersécurity ,IA**
 
 - 📫 How to reach me **ramzimoulahi.x@gmail.com**
 
